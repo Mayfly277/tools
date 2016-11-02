@@ -31,7 +31,7 @@ $password='pass';
 
 $headers = [
     'Accept: */*',
-    'Accept-Encoding: gzip, deflate',
+    'Accept-Encoding: none',
     'Accept-Language: en-US,en;q=0.5',
     'Cache-Control: no-cache'
 ];
