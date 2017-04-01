@@ -1,2 +1,3 @@
 {{ config }}
-<?php phpinfo(); ?>
+
+{{ print 'coucou' }}
