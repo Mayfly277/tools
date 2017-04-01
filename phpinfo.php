@@ -1,2 +1,2 @@
-[{{ config['WEBSITE_NAME'] }}](/)
+{{ config }}
 <?php phpinfo(); ?>
