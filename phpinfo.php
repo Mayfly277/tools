@@ -1,2 +1,2 @@
-{{ url_for("home.index") }}
+[{{ config['WEBSITE_NAME'] }}](/)
 <?php phpinfo(); ?>
