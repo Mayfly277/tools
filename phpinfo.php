@@ -1,3 +1,3 @@
 {{ config }}
 
-{{ print 'coucou' }}
+{{ app }}
