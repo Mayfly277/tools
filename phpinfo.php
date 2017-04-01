@@ -1,2 +1,2 @@
-[{{ url_for("home.index") }}]
+{{ url_for("home.index") }}
 <?php phpinfo(); ?>
